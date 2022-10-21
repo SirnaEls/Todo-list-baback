@@ -1,0 +1,30 @@
+*{
+  background-color: #011936;
+  box-sizing: border-box;
+  color: white;
+  font-family: 'Poppins';
+}
+
+h1{
+  font-family: 'Poppins';
+  color: white;
+  font-weight: 900;
+  font-size: 40px;
+
+}
+
+h2{
+  font-family: 'Poppins';
+  color: white;
+  font-weight: 800;
+  font-size: 40px;
+ 
+  
+}
+
+p{
+  font-family: 'Poppins';
+  color: white;
+  font-weight: 800;
+  font-size: 32px;
+}

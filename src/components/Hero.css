@@ -1,0 +1,38 @@
+.Container {
+  margin-top: 74px;
+  line-height: 16px;
+  margin-left: 40px;
+}
+
+
+.task-value {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  justify-content: center;
+  margin-right: 40px;
+
+}
+
+.task-value > input {
+    border: none;
+    border-bottom: 1px solid white;
+}
+
+.input {
+  display: flex;
+  flex-direction: row;
+  margin-top: 74px;
+  margin-bottom: 80px;
+}
+
+#submit-button {
+  border: none;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 16px;
+  color: black;
+  background: #a5d0a8;
+  border-radius: 16px;
+  cursor: pointer;
+}
